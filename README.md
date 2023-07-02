@@ -1,2 +1,2 @@
 # GARCH_Models
-Analiza modeli GARCH i MGARCH
+Analiza modeli GARCH i MGARCH.
